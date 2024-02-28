@@ -22,7 +22,7 @@ function insertTopBar() {
         </span>
       </div>
     </a>
-    <a href=".ttps://forcegpt.github.io/aula/">
+    <a href="https://forcegpt.github.io/aula/">
       <div class='item '>
       <i class='bx bxs-graduation'></i>
         <span>
